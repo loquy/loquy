@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Java         14 hrs 44 mins  ████████████▓░░░░░░░░░░░░   51.32 % 
-Markdown     4 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-JavaScript   3 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-XML          2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-HTML         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Java         19 hrs 1 min    ██████████████▒░░░░░░░░░░   57.19 % 
+XML          4 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Markdown     3 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JavaScript   3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+YAML         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 <!--END_SECTION:waka-->
