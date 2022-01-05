@@ -2,10 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Java       9 hrs 47 mins   ████████████████████████▒   97.69 % 
-Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java       7 hrs 38 mins   ████████████████████████▓   98.95 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
