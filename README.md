@@ -2,8 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
-Java   1 hr 59 mins    █████████████████████████   100.00 % 
+Java         8 hrs 58 mins   ████████████████████████░   96.36 % 
+FTL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Log          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
