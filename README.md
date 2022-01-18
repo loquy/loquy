@@ -2,10 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-Java         5 hrs 23 mins   ████████████████████████░   95.99 % 
-FTL          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Java       4 hrs 52 mins   ████████████████████████▓   99.06 % 
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
