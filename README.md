@@ -2,9 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
-Java         5 hrs 48 mins   ████████████████████████░   96.15 % 
-Properties   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Java         5 hrs 59 mins   ████████████████████████░   96.20 % 
+Properties   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
