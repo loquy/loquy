@@ -2,8 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
-Java         1 hr 4 mins     █████████████████████████   99.60 % 
+Java         28 mins         █████████████████████████   99.94 % 
 ```
 <!--END_SECTION:waka-->
