@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-Java          10 hrs 34 mins  ███████████████▒░░░░░░░░░   60.98 % 
-FTL           5 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 % 
-Properties    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-IDEA_MODULE   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JavaScript    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Java          13 hrs 50 mins  ████████████████▓░░░░░░░░   67.19 % 
+FTL           5 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+IDEA_MODULE   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Properties    22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
