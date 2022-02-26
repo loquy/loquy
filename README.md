@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2022 - 24 February, 2022
+Week: 19 February, 2022 - 25 February, 2022
 
 Java          34 hrs 57 mins  █████████████████████▓░░░   87.05 % 
 FTL           3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
