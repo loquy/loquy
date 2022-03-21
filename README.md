@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2022 - 19 March, 2022
+Week: 14 March, 2022 - 20 March, 2022
 
 Java          10 hrs 5 mins   █████████████████████▓░░░   86.76 % 
 FTL           41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
