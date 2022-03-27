@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 March, 2022 - 25 March, 2022
+Week: 20 March, 2022 - 26 March, 2022
 
 Java          22 hrs 15 mins  ██████████████████████▓░░   91.17 % 
 JavaScript    41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
