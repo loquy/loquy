@@ -2,10 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2022 - 10 April, 2022
+Week: 05 April, 2022 - 11 April, 2022
 
-Java          4 hrs 24 mins   █████████████████████▒░░░   85.95 % 
-FTL           22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-IDEA_MODULE   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Java          5 hrs 44 mins   █████████████████████▓░░░   86.52 % 
+FTL           23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+IDEA_MODULE   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JavaScript    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
