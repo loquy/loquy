@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2022 - 16 April, 2022
+Week: 11 April, 2022 - 17 April, 2022
 
 Java          6 hrs 52 mins   ████████████████████████▒   96.83 % 
 JavaScript    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
