@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 May, 2022 - 14 May, 2022
+Week: 09 May, 2022 - 15 May, 2022
 
 Java             12 hrs 48 mins  █████████████████████▓░░░   86.73 % 
 Properties       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
