@@ -2,8 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2022 - 30 May, 2022
+Week: 25 May, 2022 - 31 May, 2022
 
-Java   8 hrs 57 mins   █████████████████████████   100.00 % 
+Java   9 hrs 45 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
