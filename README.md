@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2022 - 17 June, 2022
+Week: 12 June, 2022 - 18 June, 2022
 
 Java       6 hrs 48 mins   ███████████░░░░░░░░░░░░░░   43.69 % 
 Markdown   5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   32.85 % 
