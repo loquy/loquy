@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 June, 2022 - 25 June, 2022
+Week: 20 June, 2022 - 26 June, 2022
 
 Java          15 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.04 % 
 FTL           10 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   32.96 % 
