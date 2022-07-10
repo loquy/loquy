@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2022 - 08 July, 2022
+Week: 03 July, 2022 - 09 July, 2022
 
 Java          7 hrs 36 mins   ██████████████▓░░░░░░░░░░   59.19 % 
 FTL           2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.72 % 
