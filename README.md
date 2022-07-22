@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2022 - 20 July, 2022
+Week: 15 July, 2022 - 21 July, 2022
 
-Java          15 hrs 37 mins  ██████████████░░░░░░░░░░░   56.17 % 
-FTL           10 hrs 23 mins  █████████▒░░░░░░░░░░░░░░░   37.40 % 
-Properties    33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-IDEA_MODULE   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JavaScript    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Java          16 hrs 35 mins  ██████████████▒░░░░░░░░░░   57.21 % 
+FTL           11 hrs 12 mins  █████████▓░░░░░░░░░░░░░░░   38.66 % 
+Properties    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+IDEA_MODULE   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
