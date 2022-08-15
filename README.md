@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2022 - 13 August, 2022
+Week: 08 August, 2022 - 14 August, 2022
 
 Java         21 hrs 38 mins  ███████████████████▓░░░░░   79.14 % 
 XML          2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
