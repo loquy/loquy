@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2022 - 16 August, 2022
+Week: 11 August, 2022 - 17 August, 2022
 
 Java         25 hrs 19 mins  ████████████████████▓░░░░   82.89 % 
 Markdown     2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
