@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2022 - 18 August, 2022
+Week: 13 August, 2022 - 19 August, 2022
 
-Java          17 hrs 2 mins   ████████████████████████░   95.39 % 
-Properties    24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-IDEA_MODULE   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-FTL           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java          10 hrs 41 mins  ██████████████████████▓░░   90.30 % 
+Properties    38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+IDEA_MODULE   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+FTL           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Markdown      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
