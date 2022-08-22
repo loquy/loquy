@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2022 - 20 August, 2022
+Week: 15 August, 2022 - 21 August, 2022
 
 Java          11 hrs 37 mins  ██████████████████████░░░   87.56 % 
 Properties    1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
