@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2022 - 03 September, 2022
+Week: 29 August, 2022 - 04 September, 2022
 
 Java         24 hrs 2 mins   █████████████████████▓░░░   86.83 % 
 JavaScript   1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
