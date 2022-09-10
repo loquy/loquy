@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2022 - 08 September, 2022
+Week: 03 September, 2022 - 09 September, 2022
 
-Java         19 hrs 51 mins  ██████████████████████░░░   87.91 % 
-JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-XML          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Properties   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Java         18 hrs 13 mins  ██████████████████████░░░   88.31 % 
+XML          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown     45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Properties   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
