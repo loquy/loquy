@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2022 - 14 September, 2022
+Week: 09 September, 2022 - 15 September, 2022
 
-Java       3 hrs 53 mins   █████████████████▓░░░░░░░   70.97 % 
-Markdown   45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-XML        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-JSON       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Java             5 hrs 40 mins   █████████████░░░░░░░░░░░░   51.52 % 
+FTL              3 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 % 
+XML              42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+GitIgnore file   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Properties       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 <!--END_SECTION:waka-->
