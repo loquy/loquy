@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2022 - 15 September, 2022
+Week: 10 September, 2022 - 16 September, 2022
 
-Java             5 hrs 40 mins   █████████████░░░░░░░░░░░░   51.52 % 
-FTL              3 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 % 
-XML              42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-GitIgnore file   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Properties       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+FTL              10 hrs 20 mins  ███████████████▒░░░░░░░░░   61.74 % 
+Java             4 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+XML              42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+GitIgnore file   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Properties       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
