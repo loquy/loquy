@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 September, 2022 - 21 September, 2022
+Week: 16 September, 2022 - 22 September, 2022
 
 FTL           12 hrs 35 mins  █████████████████████▒░░░   85.98 % 
 Java          1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
