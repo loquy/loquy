@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2022 - 24 September, 2022
+Week: 19 September, 2022 - 25 September, 2022
 
 Java         2 hrs 9 mins    ███████████████▒░░░░░░░░░   61.65 % 
 FTL          1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   31.17 % 
