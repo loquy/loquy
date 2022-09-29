@@ -2,11 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2022 - 27 September, 2022
+Week: 22 September, 2022 - 28 September, 2022
 
-Java         8 hrs 4 mins    ████████████████████▒░░░░   81.04 % 
-FTL          1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Markdown     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Java         8 hrs 7 mins    ██████████████████████░░░   88.58 % 
+Markdown     53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
