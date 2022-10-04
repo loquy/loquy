@@ -2,10 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2022 - 02 October, 2022
+Week: 27 September, 2022 - 03 October, 2022
 
-Java         6 hrs 44 mins   ██████████████████████▒░░   89.51 % 
-Markdown     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Java       4 hrs 18 mins   █████████████████████░░░░   84.50 % 
+Markdown   40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Text       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
