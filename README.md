@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2022 - 18 October, 2022
+Week: 13 October, 2022 - 19 October, 2022
 
-Java         17 hrs 28 mins  ███████████████████████░░   91.97 % 
-XML          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Batchfile    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java         13 hrs 42 mins  ██████████████████████░░░   87.59 % 
+XML          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Batchfile    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
