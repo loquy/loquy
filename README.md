@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2022 - 22 October, 2022
+Week: 17 October, 2022 - 23 October, 2022
 
 Java         8 hrs 14 mins   ██████████████████▓░░░░░░   75.21 % 
 JavaScript   1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
