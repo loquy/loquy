@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-FTL           12 hrs 18 mins  █████████████░░░░░░░░░░░░   52.49 %
-JavaScript    4 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Java          4 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Properties    1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-IDEA_MODULE   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Text          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+FTL           9 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   42.25 %
+JavaScript    6 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Java          5 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+Properties    1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Text          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
