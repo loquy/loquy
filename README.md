@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-FTL           10 hrs 8 mins   █████████▒░░░░░░░░░░░░░░░   37.32 %
-JavaScript    6 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-Java          5 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-HTML          4 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Markdown      1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Properties    33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+FTL           11 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   39.51 %
+JavaScript    6 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Java          5 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+HTML          4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Markdown      1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Properties    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
