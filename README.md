@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
 Java             15 hrs 50 mins  ████████████████░░░░░░░░░   64.45 %
 Markdown         5 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
