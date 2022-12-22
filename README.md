@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Java             52 mins         ███████████████████████▒░   92.88 %
-GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Java             1 hr 6 mins     ███████████████████████▓░   94.27 %
+GitIgnore file   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
