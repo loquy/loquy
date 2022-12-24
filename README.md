@@ -3,11 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 16 December 2022 - To: 23 December 2022
 
-Java             50 mins         ███████████████████████▒░   93.99 %
-GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Java             2 hrs 44 mins   ████████████▓░░░░░░░░░░░░   51.27 %
+FTL              2 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   47.18 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
