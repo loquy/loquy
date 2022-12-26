@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
 Java             2 hrs 44 mins   ████████████▓░░░░░░░░░░░░   51.27 %
 FTL              2 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   47.18 %
