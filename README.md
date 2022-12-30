@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-Java          11 hrs 35 mins  ████████████▓░░░░░░░░░░░░   50.67 %
-FTL           9 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.05 %
-HTML          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-IDEA_MODULE   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Java          12 hrs 4 mins   ████████████░░░░░░░░░░░░░   47.69 %
+FTL           11 hrs 34 mins  ███████████▒░░░░░░░░░░░░░   45.72 %
+HTML          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+IDEA_MODULE   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
