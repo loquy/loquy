@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-Java          1 hr 59 mins    ███████████████████▓░░░░░   78.07 %
-Markdown      26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-IDEA_MODULE   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-FTL           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java          2 hrs 48 mins   ████████████████████▓░░░░   82.43 %
+Markdown      26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+FTL           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+IDEA_MODULE   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
