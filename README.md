@@ -3,10 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-FTL    21 mins         ████████████████░░░░░░░░░   64.36 %
-Java   11 mins         █████████░░░░░░░░░░░░░░░░   35.64 %
+FTL    27 mins         ███████████████░░░░░░░░░░   59.50 %
+Java   18 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
 ```
 
 <!--END_SECTION:waka-->
