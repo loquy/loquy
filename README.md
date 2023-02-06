@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-Java          18 hrs 26 mins  ████████████░░░░░░░░░░░░░   47.54 %
-FTL           17 hrs 29 mins  ███████████▒░░░░░░░░░░░░░   45.08 %
-JavaScript    2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Properties    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-CLASS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-CSS           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java          16 hrs 25 mins  ████████████▒░░░░░░░░░░░░   49.81 %
+FTL           15 hrs 1 min    ███████████▒░░░░░░░░░░░░░   45.57 %
+JavaScript    1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+CLASS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+CSS           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Properties    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
