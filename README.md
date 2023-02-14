@@ -3,13 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Java             20 hrs 10 mins  █████████████████████▓░░░   86.78 %
-FTL              2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-IDEA_MODULE      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-XML              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java             21 hrs 38 mins  ███████████████████████▒░   93.88 %
+FTL              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+XML              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+IDEA_MODULE      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CLASS            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
