@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 Java         15 hrs 55 mins  ███████████████▒░░░░░░░░░   61.58 %
 FTL          9 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   36.67 %
